@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Scars To Your Beautiful",
+  "base_artist": "Alessia Cara",
+  "createdAt": "2026-03-05T17:43:55.812609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/01_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/02_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scars to Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/03_Scars_to_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/04_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/05_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/06_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Scars to Your Beautiful",
+      "artist": "Carrollton",
+      "has_synced": true,
+      "path": "select/07_Scars_to_Your_Beautiful_Carrollton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/08_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scars to Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/09_Scars_to_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/10_Scars_To_Your_Beautiful_Song.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/11_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/12_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": true,
+      "path": "select/13_Scars_To_Your_Beautiful_Alessia_Cara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scars To Your Beautiful",
+      "artist": "Alessia Cara",
+      "has_synced": false,
+      "path": "select/pl_01_Scars_To_Your_Beautiful_Alessia_Cara.txt"
+    }
+  ]
+}
